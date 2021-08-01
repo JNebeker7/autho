@@ -12,6 +12,9 @@ function About() {
         always pretty fast. However, when you navigate to the <i>Profile</i>{' '}
         page it takes more time because it uses SSR to fetch the user first;
       </p>
+      <p>
+        test
+      </p>
     </Layout>
   )
 }
